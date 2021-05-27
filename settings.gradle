@@ -1,0 +1,2 @@
+rootProject.name = "DemoAddOn"
+include ':app'
